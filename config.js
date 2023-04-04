@@ -14,7 +14,7 @@ const CONFIG = {
   title: "Bento",
 
   // Theme
-  theme: "catppuccin-colours", // bento, catppuccin_colours, catppuccin, latte-frappe, latte-macchiato, latte-mocha
+  theme: "catppuccin", // bento, catppuccin, latte-frappe, latte-macchiato, latte-mocha
   imageBackground: false,
   imageUrl: "./assets/background.jpg", // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
