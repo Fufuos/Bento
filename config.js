@@ -11,10 +11,10 @@ const CONFIG = {
   name: "Nicholas",
   openInNewTab: true,
   twelveHourFormat: false,
-  title: "Bento",
+  title: "Home",
 
   // Theme
-  theme: "catppuccin", // bento, catppuccin, latte-frappe, latte-macchiato, latte-mocha
+  theme: "latte-macchiato", // bento, latte-frappe, latte-macchiato, latte-mocha
   imageBackground: false,
   imageUrl: "./assets/background.jpg", // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
