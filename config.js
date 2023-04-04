@@ -14,8 +14,8 @@ const CONFIG = {
   title: "Home",
 
   // Theme
-  theme: "latte-macchiato", // bento, latte-frappe, latte-macchiato, latte-mocha
-  imageBackground: false,
+  theme: "latte-mocha", // bento, latte-frappe, latte-macchiato, latte-mocha
+  imageBackground: true,
   imageUrl: "./assets/background.jpg", // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
   // Greetings
@@ -29,7 +29,7 @@ const CONFIG = {
 
   // Weather
   weatherKey: "094a700f89d63e4b5308c219539cd1d0", // Write here your API Key
-  weatherIcons: "OneDark", // 'Onedark', 'Nord', 'Dark', 'White'
+  weatherIcons: "Nord", // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: "F", // 'F', 'C'
   language: "en", // More languages in https://openweathermap.org/current#multi
 
